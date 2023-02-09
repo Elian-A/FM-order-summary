@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://your-solution-url.com)
-- Live Site URL: [Github pages](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/Elian-A/FM-order-summary)
+- Live Site URL: [Github pages](https://elian-a.github.io/FM-order-summary/)
 
 ## My process
 
